@@ -1,0 +1,4 @@
+/*Estamos a inportar as classes do tailwind para o nosso css.*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
